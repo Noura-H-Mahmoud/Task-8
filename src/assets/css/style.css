@@ -616,8 +616,13 @@ a{
         align-items: start;
     }
 }
-@media (max-width: 480px) {
-    
+@media (max-width: 594px) {
+    header{
+        height: max-content;
+    }
+    header .content{
+        margin-top: 3rem;
+    }
 }
 @media (max-width: 380px) {
     nav b{
