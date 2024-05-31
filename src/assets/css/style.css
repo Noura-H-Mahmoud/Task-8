@@ -414,7 +414,7 @@ h1{
 }
 .logo{
     display: flex;
-    align-items: center;
+    align-items: end;
 }
 .logo img{
     margin-top: 2rem;
